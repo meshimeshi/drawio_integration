@@ -1,0 +1,3 @@
+class Fuga extends Hoge{
+
+}

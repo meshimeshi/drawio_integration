@@ -1,0 +1,104 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="251px" height="261px" viewBox="-0.5 -0.5 251 261" content="&lt;mxfile&gt;&lt;diagram id=&quot;gWhQ9ev3nl8rweUT5G5r&quot; name=&quot;ページ1&quot;&gt;5VY9k5swEP0tKZhJGo9Bxh/lGbhLc01cpJZhDZoIxEiysa/Ib88KxGEsLnOZ+CZFGlt6+yHte1oJj0Tl+UnSungWGXAvmGdnj8ReEISbNf4a4NIB68WqA3LJsg7yB2DHXsCCc4seWQZq5KiF4JrVYzAVVQWpHmFUStGM3Q6Cj1etaQ4OsEspd9HvLNOFrSJYDfhXYHnRr+wvN52lpL2zrUQVNBPNFUQSj0RSCN2NynME3HDX89LFPb5hfd2YhEq/JyDoAk6UH21tXrCkZe2RbbVX5u/nLJO0YQJxjim3e4mjXHeWN+A2YKZO+YTVGusqtwzoS09rUzANu5qmZt7gyUH/QpccZz4OKWd5hWMOB5PJLdVWfwKp4XwF2dKfQJSg5QVdrHVhVeiPoZ02g6Z+L1RxpefSYtQeo/w18cA0DizZ08QTh3h/ZsyV0rR19BLi4YbWUU8/2jTkkmomqt4Yd7CxnlSKbeZwikzo39Jo2GJ4tB8sXLIsM8FbCYq90H2baI7zWuBKbcXh1gtjk+moheqa0yRWWoofEAkuJCKVqEyWA+P8BrqDcP5YON8VLggnhCN3EG7hCBfMUglUw23nmJuF8f9UktCVZPNBioSOIsS2Em5+aJBvyUP8nPyBGimSAfIf6uGQPyHRu1tkFbqX2+KDFFk6inxCRlJRlmbzYfwZ9XlU2Cwcrh6LL3d5EP6KtJsHYepiudeLgNPhmW9tV99KJPkF&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="30" y="70" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 118px; height: 1px; padding-top: 100px; margin-left: 32px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                ~.drawio
+                                <br/>
+                                ~.dio
+                                <br/>
+                                ~.drawio.svg
+                                <br/>
+                                ~drawio.png
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="32" y="104" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    ~.drawio...
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="0" width="250" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 15px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                1. install 「drawio integration」 into vscode
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1. install 「drawio integration」 into vscode
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="40" width="90" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 55px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                2.create  file
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="59" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.create  file
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="165" width="140" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 180px; margin-left: 70px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                3. insert into README
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="70" y="184" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    3. insert into README
+                </text>
+            </switch>
+        </g>
+        <rect x="30" y="200" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 118px; height: 1px; padding-top: 230px; margin-left: 32px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                ![comment](./sample.drawio.svg)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="32" y="234" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    ![comment](./sample....
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
